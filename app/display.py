@@ -1,6 +1,6 @@
 from abc import abstractmethod
 
-from book import Book
+from app.book import Book
 
 
 class Display:
